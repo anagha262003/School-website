@@ -1,1 +1,1 @@
-# School-website
+A simple School information website.
